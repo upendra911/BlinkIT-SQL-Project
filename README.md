@@ -11,7 +11,6 @@ This project simulates a retail sales environment for BlinkIT, where I built and
 ## 📁 Project Structure
 - `data/`: Raw CSV files
 - `scripts/`: SQL scripts to create and clean the database, plus analytical queries
-- `BlinkIT_SQL_Case_Study.md`: Full walkthrough of the project and insights
 
 ## 📊 Key Features
 - Designed 3-table relational model (`Sales`, `Items`, `Outlets`)
