@@ -29,7 +29,7 @@ This project simulates a retail sales environment for BlinkIT, where I built and
 3. Explore analysis queries in `analysis_queries.sql`
 
 ## 📸 ERD (Entity Relationship Diagram)
-![ERD](images/ERD.png)
+![ERD](https://github.com/upendra911/BlinkIT-SQL-Project/blob/main/BlinkIT-SQL-Project/images/ERD%20diagram.png)
 
 ## 📂 Project Status
 ✅ Complete and ready for extension to Power BI or visualization tools
